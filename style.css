@@ -17,6 +17,23 @@ body {
     flex-direction: column;
 }
 
+#first {
+    width: 50vw;
+    height: 100vh;
+    position: absolute;
+    left: 0;
+    display: none;
+}
+
+#second {
+    width: 50vw;
+    height: 100vh;
+    position: absolute;
+    right: 0;
+    display: none;
+}
+
+
 h1 {
     font-size: 65px;
     font-weight: 850;
