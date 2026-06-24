@@ -12,7 +12,7 @@ let randomNum = () => {
 
 const increment = () => {
      return incremented(added++)
-}
+} 
 
 const incremented = (func) => {
      if (func > 99) {
